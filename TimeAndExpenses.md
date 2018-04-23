@@ -3,8 +3,8 @@ The creators of the project expect to be compensated for their work. This file c
 
 ## Compensation Table
 
-Date | Time or Expense | Statement of Work | Identity | Compensation | Attitude | Jackpot
------------- | ------------
+| Date | Time or Expense | Statement of Work | Identity | Compensation | Attitude | Jackpot
+| -----| --------------- | ----------------- | -------- | ------------ | -------- | -------
 | 2018-23-04 | Indeterminate | Created the idea of a compensated collaboration license | TODO | None | Not met | $500,000
 | 2018-23-04 |3 hours | Created GitHub project; first draft of license; started writing guide | TODO | None | Not met | Maintain lifestyle
 
